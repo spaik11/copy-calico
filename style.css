@@ -1,0 +1,17 @@
+body {
+    background-color: #F7F7F7;
+}
+
+.image img {
+    border: 1px solid white;
+    height: 40px;
+    width: 40px;
+    padding: 25px;
+    background-color: white;
+    top: 0;
+}
+
+#title {
+    font-size: 35px;
+    text-align: center;
+}
