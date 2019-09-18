@@ -42,7 +42,7 @@ body {
 #table {
     height: 600px;
     width: 600px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .links a {
@@ -54,7 +54,7 @@ body {
     letter-spacing: 3px;
 }
 
-.links:hover a {
+a:hover {
     color: red;
 }
 
