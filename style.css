@@ -31,6 +31,7 @@ body {
     text-transform: uppercase;
     margin: 10px 150px 75px;
     font-family: Georgia;
+    letter-spacing: 2px;
 }
 
 .dashed span {
@@ -38,9 +39,25 @@ body {
     padding: 0 20px;
 }
 
-.links {
+#table {
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.links a {
     color: rgb(77, 77, 77);
     font-family: helvetica;
+    font-size: 13px;
     text-transform: uppercase;
     text-align: center;
+    letter-spacing: 3px;
+}
+
+.links:hover a {
+    color: red;
+}
+
+.row1 {
+    
 }
